@@ -1,1 +1,7 @@
 # DLC
+
+1) Use of stringstream object
+stringstream ss(str);
+string word
+- while(ss>>word) // by default space separated
+- while(getling(ss,word,'.))// delimiter
